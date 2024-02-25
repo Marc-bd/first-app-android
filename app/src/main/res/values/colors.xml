@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--     Customize Colors    -->
+
+    <color  name="primary">#E70001</color>
+    <color  name="primary_variant">#AA0407</color>
+    <color  name="secundary">#f70000</color>
+    <color  name="background">#171417</color>
+    <color  name="text_menu">#FFFFFFFF</color>
+
+
+
+</resources>

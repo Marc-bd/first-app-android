@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Netflix Interface</string>
+    <string name="sitcom_name">Série</string>
+    <string name="movie_name">Filme</string>
+    <string name="my_list">MINHA LISTA</string>
+    <string name="genre_violence">Violência</string>
+    <string name="genre_exciting">Empolgante</string>
+    <string name="genre_horror">Sinistro</string>
+    <string name="details">DETALHES</string>
+    <string name="watch">ASSISTIR</string>
+    <string name="release">Lançamentos</string>
+</resources>
